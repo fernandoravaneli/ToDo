@@ -1,13 +1,13 @@
 //ICONES
-import iconDefault from '../Assets/default.png'
-import iconFooteball from '../Assets/footeball.png'
-import iconFood from '../Assets/food.png'
-import iconJob from '../Assets/job.png'
-import iconParty from '../Assets/party.png'
-import iconStudy from '../Assets/study.png'
-import iconShopping from '../Assets/shopping.png'
-import iconTravel from '../Assets/default.png'
-import iconSport from '../Assets/gym.png'
+import iconDefault from '../assets/default.png'
+import iconFooteball from '../assets/footeball.png'
+import iconFood from '../assets/food.png'
+import iconJob from '../assets/job.png'
+import iconParty from '../assets/party.png'
+import iconStudy from '../assets/study.png'
+import iconShopping from '../assets/shopping.png'
+import iconTravel from '../assets/default.png'
+import iconSport from '../assets/gym.png'
 
 const typeIcons = [
     null,

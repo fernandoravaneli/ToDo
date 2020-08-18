@@ -2,8 +2,8 @@ import React, { useEffect, useState } from 'react';
 import * as S from './styles'
 import {Link} from 'react-router-dom'
 
-import logo from '../../Assets/logo.png'
-import bell from '../../Assets/bell.png'
+import logo from '../../assets/logo.png'
+import bell from '../../assets/bell.png'
 
 import api from '../../services/api'
 import isConnected from '../../utils/isConnected'

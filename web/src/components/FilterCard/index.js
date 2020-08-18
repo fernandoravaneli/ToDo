@@ -1,7 +1,7 @@
 import React from 'react';
 import * as S from './styles'
 
-import filter from '../../Assets/filter.png'
+import filter from '../../assets/filter.png'
 
 function FilterCard({ title, actived }){ 
     return (
