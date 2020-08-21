@@ -38,8 +38,8 @@ export default function Home({ navigation }){
         setFilter('late')
     }
 
-    function New(){
-        navigation.navigate(Task)
+    function newTask() {
+        navigation.navigate('Task');
     }
 
     useEffect(() => {
@@ -85,7 +85,7 @@ export default function Home({ navigation }){
             }  
             </ScrollView>
 
-            <Footer icon={'add'} onPress={New}/>
+            <Footer icon={'add'} onPress={newTask}/>
         </View>
     )
 }

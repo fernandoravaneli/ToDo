@@ -64,6 +64,9 @@ const styles = StyleSheet.create({
         color: '#23295E',
         textTransform: 'uppercase',
         fontSize: 16,
+    },
+    typeIconInative: {
+        opacity: 0.5
     }
 
 })
